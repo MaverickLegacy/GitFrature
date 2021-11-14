@@ -1,2 +1,2 @@
 # GitFeature Testing
-Trying out git features
+Retrying Git pull
