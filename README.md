@@ -1,3 +1,2 @@
-# GitFrature
-
-Trying out the git pull feature
+# GitFeature Testing
+Trying out git features
